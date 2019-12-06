@@ -1,0 +1,601 @@
+.content-1{
+    width: 7.02rem;
+    margin: 0 auto;
+}
+/*头部开始*/
+body{
+    background:#f6f6f6;
+}
+header{
+    width: 100%;
+    height: 0.88rem;
+    background: white;
+    margin: 0 auto;
+    position:fixed;
+    top: 0;
+    left: 0;
+    z-index:2;
+}
+.content-1 img{
+    width:0.92rem;
+    height:0.30rem;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin:auto;
+}
+.icon-quxiao{
+    width: 0.28rem;
+    height:0.3rem;
+    line-height: 0.88rem;
+    float: left;
+}
+.content-1 ul li{
+    width:0.08rem;
+    height: 0.08rem;
+    background: #333333;
+    border-radius: 50%;
+    margin-left: 0.06rem;
+    line-height: 0.88rem;
+    float: right;
+    margin-top: 0.4rem;
+}
+.content-1 ul{
+    float: right;
+}
+/*头部结束*/
+.navigation{
+    width: 7.5rem;
+    height: 0.88rem;
+    background: white;
+    line-height: 0.88rem;
+    font-size:0.24rem;
+    margin-top: 0.88rem;
+}
+.navigation a{
+    color: rgba(0,0,0,0.7);
+}
+.product{
+    margin-left:0.24rem;
+}
+.show{
+    margin-left:1rem;
+}
+.banner{
+    width:7.5rem;
+    height:3.84rem;
+    background:white;
+    position: relative;
+
+}
+.banner img{
+    width:100%;
+    height:3.84rem;
+}
+.banner li{
+    float: left;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-left:0.4rem;
+    border: 1px solid white;
+    overflow: hidden;
+}
+.banner .point-4{
+    background: white;
+}
+.banner ul{
+    float: left;
+    position: absolute;
+    top: 3.56rem;
+    left: 2.74rem;
+    overflow: hidden;
+}
+.more-1{
+    width: 1.09rem;
+    height:0.33rem;
+    background: #ffcb3f;
+    color: white;
+    font-size: 0.18rem;
+    text-align: center;
+    line-height: 0.33rem;
+    position: absolute;
+    left: 0.84rem;
+    bottom: 0.9rem;
+    border-radius: 0.1rem;
+    font-family:"Arial Black";
+    box-shadow:0.03rem 0.03rem #69869c;
+}
+/*新品首发开始*/
+.background{
+    width: 100%;
+    background: #f5f5f5;
+    overflow:hidden;
+}
+.new-product{
+    width: 1.48rem;
+    margin: 0.8rem auto 0;
+}
+.new-product-line{
+    width:0.48rem;
+    height: 0.02rem;
+    background:#ffcb3f;
+}
+.new-product-line1{
+    width:1.48rem;
+    height: 0.01rem;
+    background: #d7d7d7;
+    margin:0.08rem 0 0.04rem;
+}
+.new-product-title{
+    font-size: 0.18rem;
+    color:black;
+}
+.new-product p{
+    font-size: 0.32rem;
+    margin: 0.1rem 0 0.18rem;
+}
+.new-product p span{
+    color:#ffcb3f;
+}
+.new-product-line2{
+    width: 0.34rem;
+    height:0.02rem;
+    background: black;
+    margin: 0 auto;
+}
+ ul li .new-picture1{
+     position: relative;
+ }
+.new-picture1 .hot{
+    width:0.45rem;
+    height: 0.55rem;
+    position: absolute;
+    top: -0.15rem;
+    left: 0.2rem;
+
+}
+.new-picture1 .hot-1{
+    color: white;
+    font-size:0.16rem;
+    z-index:6;
+    position: absolute;
+    top: 0;
+    left: -0.03rem;
+}
+.four{
+    font-size: 0.22rem;
+    color:#fccb3f;
+    font-weight: bold;
+    float: right;
+    margin-right:0.38rem;
+    margin-top: 0.2rem;
+}
+.four span{
+    color: black;
+    font-size:0.2rem;
+}
+.new-content div{
+    margin-left: 0.24rem;
+}
+.new-content{
+    width:100%;
+    height:5.11rem;
+    margin-top:0.56rem;
+    overflow: hidden;
+}
+.new-content-box{
+    width:9.9rem;
+    height:5.11rem;
+}
+.new-content-box:last-child{
+    margin-right: 0;
+}
+.new-content ul li{
+    width:3.09rem;
+    height: 5.11rem;
+    background:white;
+    float: left;
+    position: relative;
+    margin-left: 0.20rem;
+}
+.new-content ul li img{
+    height:2.89rem;
+    width:3.09rem;
+}
+
+.new-content1-line{
+    width: 0.27rem;
+    height:0.01rem;
+    background: black;
+    margin: 0.02rem 0 0.1rem
+    }
+.ver{
+    font-size:0.18rem;
+    color: black;
+}
+.new-content-title{
+    font-size: 0.24rem;
+    margin-top:0.1rem;
+}
+.price{
+    font-size: 0.26rem;
+    margin-top:0.9rem;
+    font-family:"Microsoft YaHei-bold";
+}
+.price span{
+    font-size: 0.18rem;
+    font-family: ArialNarrow;
+}
+.buy{
+    width:1.52rem;
+    height:0.43rem;
+    background:#ffcb3f;
+    color: white;
+    font-size: 0.22rem;
+    font-family:Microsoft YaHei-Bold;
+    text-align: center;
+    border-radius:0.1rem;
+    line-height: 0.43rem;
+    position: absolute;
+    left: 1rem;
+    bottom:0.1rem;
+}
+/*新品首发结束*/
+/*热销产品开始*/
+.hotbuy{
+    width: 7.02rem;
+    text-align: center;
+    background: white;
+    margin: 1.12rem auto 0;
+    overflow: hidden;
+    height: 6.93rem;
+}
+.hotbuy img{
+    width: 6.25rem;
+    height:2.62rem;
+}
+.hotbuy-ward{
+    font-size: 0.31rem;
+    font-family:Microsoft YaHei-Bold;
+    color: black;
+    margin-top: 0.58rem;
+    margin-right:3.3rem;
+    font-weight: bold;
+}
+.hotbuy-ward-1{
+    font-size:0.2rem;
+    font-family: "Microsoft YaHei";
+    margin-top: 0.14rem;
+    margin-right: 2.25rem;
+}
+.price-1{
+    font-size: 0.3rem;
+    font-family:"Microsoft YaHei-bold";
+    margin-top:1.09rem;
+    margin-right: 4.6rem;
+}
+.price-1 span{
+    font-size: 0.18rem;
+    font-family:ArialMT;
+}
+.hotbuy-ward-2{
+    font-family:ArialMT;
+    font-size: 0.18rem;
+    margin-top: 0.13rem;
+    margin-right: 4.7rem;
+}
+.hotbuy-box{
+    width:7.02rem;
+    background:#f6f6f6;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+.hotbuy-soft-1{
+    width: 3.38rem;
+    height:4.16rem;
+    background:white;
+    margin-top:0.6rem;
+    float: left;
+    position: relative;
+
+}
+.hotbuy-soft-1 i{
+    color: #fccb3f;
+    font-size:0.2rem;
+    position: absolute;
+    bottom: 0.1rem;
+    left: 1.3rem;
+}
+.hotbuy-ward-3{
+    font-family:ArialMT;
+    font-size: 0.18rem;
+    margin-top: 0.19rem;
+    margin-left:0.2rem;
+}
+.hotbuy-ward-4{
+    font-size: 0.26rem;
+    font-family: "Microsoft YaHei-Bold";
+    margin-top:0.18rem;
+    margin-left:0.2rem;
+    font-weight:bold;
+}
+.hotbuy-soft-1 img{
+    width:1.8rem;
+    height:1.62rem;
+    margin-top:0.48rem;
+    margin-left: 0.6rem;
+}
+.price-2{
+    font-size: 0.3rem;
+    font-family:"Microsoft YaHei-bold";
+    margin-top:0.2rem;
+    margin-left: 0.2rem;
+    font-weight:bold;
+}
+.price-2 span{
+    font-size: 0.18rem;
+    font-family:ArialMT;
+    font-weight: normal;
+}
+.tiao{
+    color: black;
+}
+
+.hotbuy-ward-5{
+    font-family:ArialMT;
+    font-size: 0.18rem;
+   margin: 0.09rem 1.7rem 0.23rem 0.2rem;
+}
+.hotbuy-soft-2{
+    width: 3.38rem;
+    height:4.16rem;
+    background:white;
+    margin-top:0.6rem;
+    float: left;
+    margin-left:0.26rem;
+    position: relative;
+}
+.hotbuy-soft-2 img{
+    width:1.8rem;
+    height:1.62rem;
+    margin-top:0.48rem;
+    margin-left: 0.6rem;
+}
+.hotbuy-soft-3{
+    width: 3.38rem;
+    height:4.16rem;
+    background:white;
+    margin-top:0.24rem;
+    float: left;
+    position: relative;
+
+}
+.hotbuy-soft-4{
+    width: 3.38rem;
+    height:4.16rem;
+    background:white;
+    float: left;
+    margin-left:0.26rem;
+    margin-top:0.24rem;
+    position: relative;
+}
+.hotbuy-soft-3 img{
+    width:1.8rem;
+    height:1.62rem;
+    margin-top:0.48rem;
+    margin-left: 0.6rem;
+}
+
+.hotbuy-soft-4 img{
+    width:1.8rem;
+    height:1.62rem;
+    margin-top:0.48rem;
+    margin-left: 0.6rem;
+}
+.lookmore{
+    color:#a6a6a6;
+    font-size: 0.18rem;
+    margin-top:0.38rem;
+    text-align:center;
+}
+.hotbuy-soft-2 i{
+    color: #fccb3f;
+    font-size:0.2rem;
+    position: absolute;
+    bottom: 0.1rem;
+    left: 1.3rem;
+}
+.hotbuy-soft-3 i{
+    color: #fccb3f;
+    font-size:0.2rem;
+    position: absolute;
+    bottom: 0.1rem;
+    left: 1.3rem;
+}
+.hotbuy-soft-4 i{
+    color: #fccb3f;
+    font-size:0.2rem;
+    position: absolute;
+    bottom: 0.1rem;
+    left: 1.3rem;
+}
+.circle{
+
+}
+.circle-1{
+    width: 0.14rem;
+    height: 0.14rem;
+    border-radius:50%;
+    background: #efb28e;
+}
+.circle-2{
+    width: 0.18rem;
+    height: 0.18rem;
+    border-radius:50%;
+    background: #97d1d7;
+}
+.circle-3{
+    width: 0.14rem;
+    height: 0.14rem;
+    border-radius:50%;
+    background: #97a0d7;
+}
+/*热销产品结束*/
+/*案例展示开始*/
+.case{
+    width: 7.02rem;
+    height: 4.38rem;
+    background: #69869c;
+    margin:0.64rem auto 0;
+}
+.case img{
+    width: 7.02rem;
+    height:4.38rem;
+}
+.case-title{
+    height:0.26rem;
+    margin:0.4rem auto 0;
+    text-align: center;
+    color: black;
+    font-size: 0.28rem;
+    font-family: Arial-Bold;
+    font-weight: bold;
+}
+.content{
+    width: 6.60rem;
+    color: black;
+    font-size:0.24rem;
+    font-family:"Microsoft YaHei";
+    text-align: center;
+    height: 3.16rem;
+    margin: 0.28rem auto 0;
+}
+.content li{
+    margin-bottom: 0.12rem;
+}
+.know-more{
+    width: 1.4rem;
+    height: 0.6rem;
+    color:black;
+    border-radius:30px;
+    font-size:0.18rem;
+    font-family: "Microsoft YaHei";
+    border: 1px solid #f9d77e;
+    text-align: center;
+    line-height: 0.6rem;
+    margin: 0.34rem auto 0;
+}
+/*案例展示结束*/
+/*品牌故事开始*/
+.new-product-9{
+    width:2.22rem;
+    margin: 0.8rem auto 0;
+}
+.new-product-line5{
+    width:0.48rem;
+    height: 0.02rem;
+    background:#ffcb3f;
+    margin-left: 0.3rem;
+}
+.new-product-line15{
+    width:1.48rem;
+    height: 0.01rem;
+    background: #d7d7d7;
+    margin: 0.07rem 0.3rem 0.04rem;
+}
+.new-product-title5{
+    font-size: 0.18rem;
+    color:black;
+}
+.new-product-9 p{
+    font-size: 0.32rem;
+    margin: 0.1rem 0.23rem 0.18rem;
+}
+.new-product-9 p span{
+    color:#ffcb3f;
+}
+.new-product-line25{
+    width: 0.34rem;
+    height:0.02rem;
+    background: black;
+    margin-left: 0.8rem;
+}
+.last-picture{
+    width: 0.75rem;
+    height:3.34rem;
+    margin-top: 0.56rem;
+    text-align: center;
+    position: relative;
+    margin-bottom: 0.98rem;
+}
+.last-picture img{
+    width: 7.5rem;
+    height:3.34rem;
+}
+.last-picture ul{
+    width:7.5rem;
+    height:3.34rem;
+    background: rgba(0,0,0,0.3);
+    text-align: center;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.last-picture ul .bwhite{
+    font-size:0.3rem;
+    font-family: "Microsoft YaHei";
+    font-weight: bold;
+    color: white;
+    margin-top:0.5rem;
+}
+.last-picture ul .nwhite{
+    font-size:0.18rem;
+    font-family: "Microsoft YaHei";
+    color:rgba(255,255,255,0.8);
+    margin-top:0.15rem;
+}
+.last-picture ul li:nth-child(2){
+    margin-top:0.45rem;
+
+}
+/*品牌故事结束*/
+/*tab栏开始*/
+.tab{
+    width: 7.5rem;
+    height: 0.98rem;
+    background:white;
+    display: flex;
+    justify-content:space-around;
+    align-content:flex-end;
+    margin-top: 0.15rem;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    align-items:center;
+}
+.tab li div{
+    font-size:0.2rem;
+}
+.tab a:first-child{
+    color:#fccb3f;
+}
+
+.tab li{
+    font-size: 0.25rem;
+}
+.tab a:nth-child(2){
+    color: black;
+}
+.tab a:nth-child(3){
+    color: black;
+}
+.tab a:nth-child(4){
+    color: black;
+}
+/*tab栏结束*/

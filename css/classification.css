@@ -1,0 +1,319 @@
+.content-1{
+    width: 7.02rem;
+    margin: 0 auto;
+}
+/*头部开始*/
+header{
+    width: 100%;
+    height: 0.88rem;
+    background: white;
+    margin: 0 auto;
+    position:fixed;
+    top: 0;
+    left: 0;
+    z-index:2;
+}
+.content-1 img{
+    width:0.92rem;
+    height:0.30rem;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin:auto;
+}
+.icon-quxiao{
+    width: 0.28rem;
+    height:0.3rem;
+    line-height: 0.88rem;
+    float: left;
+}
+.content-1 ul li{
+    width:0.08rem;
+    height: 0.08rem;
+    background: #333333;
+    border-radius: 50%;
+    margin-left: 0.06rem;
+    line-height: 0.88rem;
+    float: right;
+    margin-top: 0.4rem;
+}
+.content-1 ul{
+    float: right;
+}
+/*头部结束*/
+.fen{
+    width: 7.5rem;
+    height: 0.88rem;
+    background:#ffffff;
+    border-top:0.01rem solid #f2f2f2;
+    box-sizing: border-box;
+    margin-top: 0.88rem;
+    margin-bottom:0.03rem;
+    box-shadow:0 0.02rem 0.01rem 0.05rem #f2f2f2;
+}
+.fen-1{
+    width: 6.04rem;
+    height:0.6rem;
+    border-radius: 2rem;
+    background: white;
+    margin-top: 0.15rem;
+    margin-left: 0.3rem;
+    border:0.02rem solid #b0b0b0;
+}
+form{
+    width:5rem;
+    height:0.4rem;
+    display: block;
+    margin-left: 0.6rem;
+    margin-top: -0.55rem;
+}
+.fen-1 i{
+    font-size: 0.35rem;
+    margin-left: 0.2rem;
+    line-height: 0.7rem;
+}
+.fen-1 form input{
+    width:4.5rem;
+    height:0.3rem;
+    margin-left: 0.1rem;
+    outline: none;
+    border: none;
+}
+.fen span{
+    font-size: 0.24rem;
+    font-family: "Microsoft YaHei";
+    display: block;
+    float: right;
+    margin-right: 0.34rem;
+    margin-top: -0.45rem;
+}
+.fen-2{
+    width:2rem;
+    overflow: hidden;
+}
+.fen-2 li{
+    width:2rem;
+    height: 1.04rem;
+    background: #f7f7f7;
+    text-align: center;
+    margin-top: 0.03rem;
+    line-height: 1.04rem;
+    font-size: 0.26rem;
+    font-family: "Microsoft YaHei";
+    color: #000000;
+}
+.fen-2 li:nth-child(2){
+    background: #fcfcfc;
+}
+
+.fen-2-2 div{
+    width: 0.11rem;
+    height: 1.09rem;
+    background: #ffda78;
+    float: left;
+
+}
+.long-big{
+    width: 100%;
+    height:100%;
+    background: #fafafa;
+}
+.fen-3{
+    width: 5.04rem;
+    height:1.31rem;
+    float: right;
+    margin-top: -7.4rem;
+    margin-right: 0.24rem;
+}
+.fen-3 img{
+    width: 100%;
+    height: 100%;
+}
+.fen-4{
+    width: 5.02rem;
+    height: 7.17rem;
+    background: #fcfcfc;
+    float: right;
+    margin-top: -5.6rem;
+    margin-right: 0.24rem;
+    text-align: center;
+    font-size: 0.32rem;
+    color: #010101;
+}
+.fan{
+    float: left;
+    margin-left:4.2rem;
+    margin-top: -6rem;
+}
+.fan span{
+    line-height: 0.5rem;
+    float: left;
+}
+.fen-4-line{
+    width:0.83rem;
+    height: 0.01rem;
+    background: #ffcb3f;
+    margin-left: 1.4rem;
+    margin-top: -0.25rem;
+    float: left;
+}
+.fen-4-line1{
+    width:0.83rem;
+    height: 0.01rem;
+    background: #ffcb3f;
+    margin-left: -0.95rem;
+    float: left;
+    margin-top: -0.25rem
+}
+.fen-4-1 li{
+    width:1.62rem;
+    height: 1.99rem;
+    background: #fcfcfc;
+    float: left;
+}
+.fen-4-1 li div{
+    font-size:0.22rem;
+    font-family: "Microsoft YaHei";
+}
+.fen-4-1 .fen-5-1{
+    margin-top: 0.23rem;
+}
+.fen-4-1 .fen-5-2{
+    margin-left:0.08rem;
+    margin-top: 0.23rem;
+}
+.fen-4-1 .fen-5-3{
+    margin-left:0.08rem;
+    margin-top: 0.23rem;
+}
+
+.fen-4-1 .fen-5-4{
+    margin-top: 0.35rem;
+}
+.fen-4-1 .fen-5-5{
+    margin-left:0.08rem;
+    margin-top: 0.35rem;
+}
+.fen-4-1 .fen-5-6{
+    margin-left:0.08rem;
+    margin-top: 0.35rem;
+}
+
+
+.fen-4-1 .fen-5-7{
+    margin-top: 0.35rem;
+}
+.fen-4-1 .fen-5-8{
+    margin-left:0.08rem;
+    margin-top: 0.35rem;
+}
+.fen-4-1 .fen-5-9{
+    margin-left:0.08rem;
+    margin-top: 0.35rem;
+}
+.fen-5-1 img{
+    width: 1.5rem;
+    height: 1.42rem;
+}
+.fen-5-2 img{
+    width: 1.5rem;
+    height: 1.42rem;
+}
+.fen-5-3 img{
+    width: 1.5rem;
+    height: 1.42rem;
+}
+.fen-5-4 img{
+    width: 1.5rem;
+    height: 1.42rem;
+}
+.fen-5-5 img{
+    width: 1.5rem;
+    height: 1.42rem;
+}
+.fen-5-6 img{
+    width: 1.5rem;
+    height: 1.42rem;
+}
+.fen-5-7 img{
+    width: 1.5rem;
+    height: 1.42rem;
+}
+.fen-5-8 img{
+    width: 1.5rem;
+    height: 1.42rem;
+}
+.fen-5-9 img{
+    width: 1.5rem;
+    height: 1.42rem;
+}
+.fen-5-1 div{
+    line-height: 0.6rem;
+}
+.fen-5-2 div{
+    line-height: 0.6rem;
+}
+.fen-5-3 div{
+    line-height: 0.6rem;
+}
+.fen-5-4 div{
+    line-height: 0.6rem;
+}
+.fen-5-5 div{
+    line-height: 0.6rem;
+}
+.fen-5-6 div{
+    line-height: 0.6rem;
+}
+.fen-5-7 div{
+    line-height: 0.6rem;
+}
+.fen-5-8 div{
+    line-height: 0.6rem;
+}
+.fen-5-9 div{
+    line-height: 0.6rem;
+}
+
+
+/*tab栏开始*/
+.bottom{
+    width:7.5rem;
+    height: 0.98rem;
+}
+.tab{
+    width: 7.5rem;
+    height: 0.98rem;
+    background:#fafafa;
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    align-items:center;
+    border-top:0.01rem solid #f2f2f2;
+    box-sizing: border-box;
+}
+.tab li div{
+    font-size:0.2rem;
+}
+.tab a:nth-child(2){
+    color:#fccb3f;
+}
+.tab li{
+    font-size: 0.25rem;
+}
+.tab a:first-child{
+    color: black;
+}
+.tab a:nth-child(3){
+    color: black;
+}
+.tab a:nth-child(4){
+    color: black;
+}
+/*tab栏结束*/
+
